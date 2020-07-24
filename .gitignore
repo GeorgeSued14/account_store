@@ -1,0 +1,7 @@
+venv/
+.env
+
+app/__pycache__/
+app/../__pycache__/
+app/accounts/__pycache__
+app/users/__pycache__
